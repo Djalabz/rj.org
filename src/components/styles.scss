@@ -1,0 +1,23 @@
+
+   
+/* ==========================================================================
+    Main styles
+   ========================================================================== */
+// CONFIGURATION
+@charset "UTF-8";
+
+@import "config/vars";
+
+// LIBRARIES / PLUGINS
+
+
+// PROJECT
+@import "./config/global.scss";
+
+// @import "ui/typography";
+@import "ui/layout";
+@import "ui/typography";
+
+
+// COMPONENTS
+@import "components/App.scss";
